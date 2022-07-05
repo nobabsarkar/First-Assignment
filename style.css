@@ -1,0 +1,49 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,wght@0,400;0,500;0,700;1,400;1,500;1,700&family=Hind:wght@300;400;500;600;700&family=Noto+Sans+Bengali:wght@100;400;500&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+/* top section starts */
+h1,h2,h3,h4,h5,h5,p{
+      margin: 0;
+      padding: 0;
+}
+body{
+      font-family: 'Poppins', sans-serif;
+}
+.top_section{
+      background-image: linear-gradient(#0000006b, #000000c2), url(./image/donation5.jpg);
+      width: 100%;
+      height: 600px;
+      background-repeat: no-repeat;
+      background-size: cover;
+}
+.top_inner{
+      color: white;
+}
+.top_inner {
+      width: 658px;
+      margin-left: 25%;
+      padding-top: 10%;
+}
+.top_inner h1 {
+      font-size: 43px;
+      text-align: center;
+}
+.top_inner a {
+      text-decoration: none;
+      background-image: linear-gradient(orange,tomato,yellow);
+      color: white;
+      padding: 11px 25px;
+      border-radius: 8px;
+      font-weight: bold;
+      margin-left: 39%;
+}
+.top_inner p {
+      font-size: 18px;
+      text-align: center;
+      padding: 25px 0;
+}
+/* top section ends */
+
+
+
+
